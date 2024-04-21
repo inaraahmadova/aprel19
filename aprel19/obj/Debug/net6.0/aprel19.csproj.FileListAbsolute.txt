@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\aprel19\aprel19\bin\Debug\net6.0\aprel19.exe
+C:\Users\Hp\Desktop\aprel19\aprel19\bin\Debug\net6.0\aprel19.deps.json
+C:\Users\Hp\Desktop\aprel19\aprel19\bin\Debug\net6.0\aprel19.runtimeconfig.json
+C:\Users\Hp\Desktop\aprel19\aprel19\bin\Debug\net6.0\aprel19.dll
+C:\Users\Hp\Desktop\aprel19\aprel19\bin\Debug\net6.0\aprel19.pdb
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\aprel19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\aprel19.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\aprel19.AssemblyInfo.cs
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\aprel19.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\aprel19.dll
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\refint\aprel19.dll
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\aprel19.pdb
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\aprel19.genruntimeconfig.cache
+C:\Users\Hp\Desktop\aprel19\aprel19\obj\Debug\net6.0\ref\aprel19.dll
